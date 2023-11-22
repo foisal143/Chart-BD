@@ -1,0 +1,116 @@
+[
+  {
+    "id": 1,
+    "name": "Smartphone",
+    "features": ["5.5-inch display", "4GB RAM", "128GB storage", "Dual camera"],
+    "price": 599.99,
+    "imageUrl": "https://example.com/smartphone_image.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Laptop",
+    "features": [
+      "13.3-inch screen",
+      "8GB RAM",
+      "256GB SSD",
+      "Core i5 processor"
+    ],
+    "price": 899.99,
+    "imageUrl": "https://example.com/laptop_image.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Smartwatch",
+    "features": [
+      "Heart rate monitor",
+      "GPS",
+      "Water-resistant",
+      "Fitness tracking"
+    ],
+    "price": 149.99,
+    "imageUrl": "https://example.com/smartwatch_image.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Wireless Earbuds",
+    "features": [
+      "Bluetooth 5.0",
+      "Noise cancellation",
+      "20 hours battery life"
+    ],
+    "price": 79.99,
+    "imageUrl": "https://example.com/earbuds_image.jpg"
+  },
+  {
+    "id": 5,
+    "name": "4K Smart TV",
+    "features": [
+      "55-inch display",
+      "HDR support",
+      "Smart functionality",
+      "Voice control"
+    ],
+    "price": 699.99,
+    "imageUrl": "https://example.com/tv_image.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Gaming Console",
+    "features": [
+      "1TB storage",
+      "4K gaming",
+      "Wireless controller",
+      "Online multiplayer"
+    ],
+    "price": 449.99,
+    "imageUrl": "https://example.com/console_image.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Digital Camera",
+    "features": [
+      "20MP sensor",
+      "4K video recording",
+      "Built-in Wi-Fi",
+      "Touchscreen"
+    ],
+    "price": 599.99,
+    "imageUrl": "https://example.com/camera_image.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Fitness Tracker",
+    "features": [
+      "Step counter",
+      "Sleep tracking",
+      "Heart rate monitor",
+      "Waterproof"
+    ],
+    "price": 49.99,
+    "imageUrl": "https://example.com/fitness_tracker_image.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Home Security Camera",
+    "features": [
+      "1080p resolution",
+      "Motion detection",
+      "Two-way audio",
+      "Night vision"
+    ],
+    "price": 129.99,
+    "imageUrl": "https://example.com/security_camera_image.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Bluetooth Speaker",
+    "features": [
+      "20W output",
+      "Water-resistant",
+      "10 hours battery life",
+      "Built-in microphone"
+    ],
+    "price": 39.99,
+    "imageUrl": "https://example.com/speaker_image.jpg"
+  }
+]
